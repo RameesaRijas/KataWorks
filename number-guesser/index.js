@@ -26,7 +26,7 @@ while (attempt > 0) {
     }
   }
 }
-  
+
 if (attempt === 0) {
   console.log("You got it! You took 3 attempts!");
 }
